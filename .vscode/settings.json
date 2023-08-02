@@ -1,5 +1,5 @@
 {
-    "editor.fontFamily": "'LiterationMono NFM', Consolas, 'Courier New', monospace",
+    "editor.fontFamily": "Hack Nerd Font Mono, 'LiterationMono NFM', Consolas, 'Courier New', monospace",
     "python.defaultInterpreterPath": "/venv/bin/python",
     "python.terminal.activateEnvironment": true,
     "window.zoomLevel": 0.3
